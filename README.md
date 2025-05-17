@@ -12,7 +12,7 @@ Then paste the name into the terminal.
 TERMINAL
 -------------------------------------------------------------
 # Download with git
-$ git clone https://github.com/kotaro1337/NGL-Exploit.git
+$ git clone https://github.com/jeanmatthew22/NGL-Exploit.git
 
 # Entering the folder
 $ cd NGL-Exploit
